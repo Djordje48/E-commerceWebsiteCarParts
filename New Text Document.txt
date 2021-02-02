@@ -1,0 +1,10 @@
+#body .content .section div h3 {
+	color: #7a7a7a;
+	font-family: 'Lato-Light';
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0;
+	padding: 0;
+	text-transform: capitalize;
+}
